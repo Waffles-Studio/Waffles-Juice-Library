@@ -1,0 +1,331 @@
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe.config
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.pdb
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.exe
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.pdb
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\Nei Yowane\source\repos\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe.config
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.pdb
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.exe
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.pdb
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\user.png
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\About.png
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+C:\Users\Brian\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\TLOR.jpg
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\news.png
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\About.png
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\user.png
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe.config
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.pdb
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.exe
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.pdb
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.EPUser.resources
+C:\Users\BrianBa3\Desktop\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.SeUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\TLOR.jpg
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\news.png
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\About.png
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\user.png
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe.config
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.pdb
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.EPUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.SeUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.exe
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.pdb
+C:\Users\BrianBa3\Desktop\PJ\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.NewUser.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\TLOR.jpg
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\news.png
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\About.png
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\user.png
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe.config
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.exe
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\bin\Debug\Toshokan Project Beta.pdb
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.EPUser.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.NewUser.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.SeUser.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.exe
+D:\Usuarios\Nei Yowane\Escritorio\Toshokan Project Beta\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.pdb
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\TLOR.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\news.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\About.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\user.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.EPUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.NewUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.SeUser.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\flecha.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\don quijo.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\Le petit.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\BiodiversidadMarinaTropical.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\Biologicalandecologicaltraitsofmarinespecies.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\libro_rojo.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p5.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p4.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p3.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p2.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p1.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\Le petit1.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\don quijo1.jpg
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\r1.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CopyComplete
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.ResolveComReference.cache
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.VPdf.resources
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\waffles-icon.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\open-beta.png
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\Lamusi.pdf
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles & Juice Library.exe.config
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles & Juice Library.exe
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles & Juice Library.pdb
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles & Juice Library.exe
+C:\Users\BrianBa3\Desktop\PJ\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles & Juice Library.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Docs\ServName.txt
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\don quijo.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\Le petit.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\BiodiversidadMarinaTropical.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\Biologicalandecologicaltraitsofmarinespecies.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\Lamusi.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Books\libro_rojo.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\waffles-icon.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\open-beta.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\r1.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p5.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p4.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p3.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p2.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\p1.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\Le petit1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\don quijo1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\flecha.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\TLOR.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\news.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\About.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\user.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\BA3.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\CH.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\CH1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\DA.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles and Juice Library.exe.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles and Juice Library.exe
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles and Juice Library.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.ResolveComReference.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Home.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._02_Library.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._03_Search.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Form1.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._04_News.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta._06_About.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Changelog.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.EPUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.NewUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.SeUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.Update.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan_Project_Beta.VPdf.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Toshokan Project Beta.csproj.CopyComplete
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles and Juice Library.exe
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles and Juice Library.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\x64\pdfium.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\x86\pdfium.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\AngleSharp.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\DotNetZip.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Gnostice.Core.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Gnostice.Documents.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Gnostice.Graphics.GDIPlus.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Gnostice.Graphics.Skia.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Gnostice.ImageEngine.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\log4net.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\PdfiumViewer.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\AngleSharp.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\DotNetZip.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\DotNetZip.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\log4net.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\PdfiumViewer.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles and Juice Library.exe.manifest
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Waffles and Juice Library.application
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles and Juice Library.TrustInfo.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles and Juice Library.exe.manifest
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Debug\Waffles and Juice Library.application
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\waffles-icon.ico
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\01_Login.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\02_Library.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\04_Search.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\03_Comunnity.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\05_News.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\06_Settings.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\07_About.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Changelog.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\EPUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Logs.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\NewUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\SeUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Update.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\VPdf.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\01_Login.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\01_Login.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\02_Library.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\02_Library.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\03_Comunnity.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\03_Comunnity.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\04_Search.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\04_Search.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\05_News.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\05_News.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\06_Settings.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\06_Settings.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\07_About.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\07_About.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Changelog.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Changelog.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\EPUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\EPUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Logs.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Logs.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\NewUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\NewUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Program.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\SeUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\SeUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Update.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Update.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\UserData.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\VPdf.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\VPdf.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\packages.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\App.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\settings.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Resources\book.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\Microsoft.CSharp.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Configuration.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Data.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Deployment.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Drawing.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.IO.Compression.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.IO.Log.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Net.Http.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Windows.Forms.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Xml.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Debug\System.Xml.Linq.dll

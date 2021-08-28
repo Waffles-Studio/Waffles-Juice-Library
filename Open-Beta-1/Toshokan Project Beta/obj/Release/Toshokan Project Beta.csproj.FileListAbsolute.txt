@@ -1,0 +1,140 @@
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Docs\ServName.txt
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\waffles-icon.ico
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\don quijo.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\Le petit.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\01_Login.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\02_Library.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\04_Search.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\03_Comunnity.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\05_News.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\06_Settings.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\07_About.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Changelog.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\EPUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Logs.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\NewUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\SeUser.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Update.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\VPdf.resx
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\01_Login.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\01_Login.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\02_Library.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\02_Library.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\03_Comunnity.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\03_Comunnity.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\04_Search.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\04_Search.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\05_News.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\05_News.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\06_Settings.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\06_Settings.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\07_About.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\07_About.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Changelog.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Changelog.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\EPUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\EPUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Logs.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Logs.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\NewUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\NewUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Program.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\SeUser.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\SeUser.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Update.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Update.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\UserData.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\VPdf.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\VPdf.Designer.cs
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Books\BiodiversidadMarinaTropical.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Books\Biologicalandecologicaltraitsofmarinespecies.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Books\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Books\Lamusi.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Books\libro_rojo.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\packages.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\App.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\settings.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\waffles-icon.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\open-beta.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\GuiaParaEntenderAlGato.pdf
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\r1.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\p5.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\p4.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\p3.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\p2.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\p1.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\Le petit1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\book.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\don quijo1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\flecha.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\TLOR.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\news.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\About.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\user.png
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\BA3.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\CH.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\CH1.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Resources\DA.jpg
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\x64\pdfium.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\x86\pdfium.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Waffles and Juice Library.exe.config
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Waffles and Juice Library.exe.manifest
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Waffles and Juice Library.application
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Waffles and Juice Library.exe
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Waffles and Juice Library.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\AngleSharp.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\DotNetZip.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Gnostice.Core.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Gnostice.Documents.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Gnostice.Graphics.GDIPlus.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Gnostice.Graphics.Skia.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Gnostice.ImageEngine.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\log4net.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Microsoft.CSharp.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\PdfiumViewer.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Configuration.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Data.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Deployment.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Drawing.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.IO.Compression.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.IO.Compression.FileSystem.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.IO.Log.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Net.Http.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Windows.Forms.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Xml.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\System.Xml.Linq.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\AngleSharp.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\DotNetZip.pdb
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\DotNetZip.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\log4net.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\PdfiumViewer.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\bin\Release\nl\PdfiumViewer.resources.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan Project Beta.csprojAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan Project Beta.csproj.ResolveComReference.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Home.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta._02_Library.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta._03_Search.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Form1.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta._04_News.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta._05_Settings.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta._06_About.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Changelog.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.EPUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Logs.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.NewUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.SeUser.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.Update.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan_Project_Beta.VPdf.resources
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan Project Beta.csproj.GenerateResource.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan Project Beta.csproj.CoreCompileInputs.cache
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Waffles and Juice Library.TrustInfo.xml
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Waffles and Juice Library.exe.manifest
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Waffles and Juice Library.application
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Toshokan Project Beta.csproj.CopyComplete
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Waffles and Juice Library.exe
+C:\Users\BrianBa3\Desktop\Open-Beta-1\Toshokan Project Beta\obj\Release\Waffles and Juice Library.pdb
